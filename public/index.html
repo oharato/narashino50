@@ -34,7 +34,7 @@
                 <tr v-for="(shop,i) in filteredShops" :key="i">
                     <td>{{shop.name}}</td>
                     <td>{{shop.area}}</td>
-                    <td>{{shop.address}}</td>
+                    <td><a :href="mapUrl(shop)" target="_blank">{{shop.address}}</a></td>
                     <td>{{shop.industry}}</td>
                     <td>{{shop.note1}}</td>
                     <td>{{shop.note2}}</td>
