@@ -1,0 +1,25 @@
+{
+  "name": "narashino50",
+  "version": "1.0.0",
+  "description": "hello",
+  "main": "index.js",
+  "dependencies": {
+    "download": "^8.0.0",
+    "node-fetch": "^3.2.0",
+    "pdfreader": "^1.2.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oharato/narashino50.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oharato/narashino50/issues"
+  },
+  "homepage": "https://github.com/oharato/narashino50#readme"
+}
