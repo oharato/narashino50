@@ -22,6 +22,11 @@ const app = new Vue({
             return fuse.search(this.filter).map(x=>x.item);
         }
     },
+    methods:{
+        mapUrl(shop){
+            return `https://google.com/maps?q=${shop.name}+${shop.address}`;
+        }
+    },
     async created(){
         const res = await fetch('./shops.json');
         this.shops = await res.json();
