@@ -1,0 +1,2267 @@
+[
+	{
+		"name": "株式会社CTAS",
+		"area": "01 東習志野",
+		"address": "東習志野1-11-23",
+		"industry": "E その他",
+		"note1": "-",
+		"note2": "外構工事"
+	},
+	{
+		"name": "蘇洲",
+		"area": "01 東習志野",
+		"address": "東習志野2-18-14",
+		"industry": "A 飲食",
+		"note1": "中華料理"
+	},
+	{
+		"name": "整体きむら家",
+		"area": "01 東習志野",
+		"address": "東習志野4-8-9",
+		"industry": "D 医療",
+		"note1": "-"
+	},
+	{
+		"name": "BADSHA",
+		"area": "01 東習志野",
+		"address": "東習志野5-17-14",
+		"industry": "A 飲食"
+	},
+	{
+		"name": "マルキ建築金物専門店",
+		"area": "01 東習志野",
+		"address": "東習志野5-8-16",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "建材"
+	},
+	{
+		"name": "ビューティーパーラー コム",
+		"area": "01 東習志野",
+		"address": "東習志野5-10-13",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "美容室"
+	},
+	{
+		"name": "ブルーダックス",
+		"area": "01 東習志野",
+		"address": "東習志野5-19-15",
+		"industry": "E その他",
+		"note1": "-",
+		"note2": "動画制作"
+	},
+	{
+		"name": "エンパイヤファクトリー株式会社",
+		"area": "01 東習志野",
+		"address": "東習志野5-6-9",
+		"industry": "E その他",
+		"note1": "-",
+		"note2": "自動車整備"
+	},
+	{
+		"name": "整骨院ぽっかぽか",
+		"area": "01 東習志野",
+		"address": "東習志野6-7-8 イオンタウン東習志野",
+		"industry": "D 医療",
+		"note1": "-"
+	},
+	{
+		"name": "猫カフェ十にゃん十色",
+		"area": "01 東習志野",
+		"address": "東習志野8-21-27",
+		"industry": "A 飲食",
+		"note1": "禁煙",
+		"note2": "猫カフェ"
+	},
+	{
+		"name": "有限会社 広瀬商店",
+		"area": "01 東習志野",
+		"address": "東習志野8-19-2",
+		"industry": "B 小売り",
+		"note1": "-"
+	},
+	{
+		"name": "浅井タクシー",
+		"area": "01 東習志野",
+		"address": "東習志野8",
+		"industry": "E その他",
+		"note1": "-",
+		"note2": "個人タクシー"
+	},
+	{
+		"name": "安藤タクシー",
+		"area": "01 東習志野",
+		"address": "東習志野8",
+		"industry": "E その他",
+		"note1": "-",
+		"note2": "個人タクシー"
+	},
+	{
+		"name": "麺処 力丸（力○）",
+		"area": "02 実籾",
+		"address": "実籾1-2-15 興和実籾ビル1F",
+		"industry": "A 飲食",
+		"note1": "ラーメン"
+	},
+	{
+		"name": "和料理 蜻蛉（とんぼ）",
+		"area": "02 実籾",
+		"address": "実籾1-4-1 ゴールドショップ1F",
+		"industry": "A 飲食",
+		"note1": "和食"
+	},
+	{
+		"name": "レオニダス 実籾店",
+		"area": "02 実籾",
+		"address": "実籾1-7-10",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "チョコレート"
+	},
+	{
+		"name": "hair design CAROSSA",
+		"area": "02 実籾",
+		"address": "実籾1-2-12",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "美容室"
+	},
+	{
+		"name": "美ーlife（ビーライフ）",
+		"area": "02 実籾",
+		"address": "実籾1-2-7",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "美容室"
+	},
+	{
+		"name": "本格麻婆カフェ ミルトス",
+		"area": "02 実籾",
+		"address": "実籾2-12-37",
+		"industry": "A 飲食",
+		"note1": "麻婆豆腐"
+	},
+	{
+		"name": "東邦自動車",
+		"area": "02 実籾",
+		"address": "実籾2-41-26",
+		"industry": "E その他",
+		"note1": "-",
+		"note2": "自動車整備"
+	},
+	{
+		"name": "聚楽太閤",
+		"area": "02 実籾",
+		"address": "実籾3-1-1 実籾駅前店舗101",
+		"industry": "A 飲食",
+		"note1": "居酒屋"
+	},
+	{
+		"name": "granMash",
+		"area": "02 実籾",
+		"address": "実籾3-3-1 アルポルト1階",
+		"industry": "A 飲食",
+		"note1": "カフェバー"
+	},
+	{
+		"name": "LANIFRUIT",
+		"area": "02 実籾",
+		"address": "実籾3-3-1 アルポルト1階granMash内",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "フルーツサンド"
+	},
+	{
+		"name": "フロンティア 武石店",
+		"area": "02 実籾",
+		"address": "実籾3-7-11",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "成年向け"
+	},
+	{
+		"name": "LUANA eyelash",
+		"area": "02 実籾",
+		"address": "実籾3-1-6 トーコーハイツ実籾301",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "まつ毛､ネイル"
+	},
+	{
+		"name": "フランク",
+		"area": "02 実籾",
+		"address": "実籾4-12-23 フランクビル2F",
+		"industry": "A 飲食",
+		"note1": "スナック"
+	},
+	{
+		"name": "Dining kitchen Fy’s Limit",
+		"area": "02 実籾",
+		"address": "実籾4-3-1 米倉ビル",
+		"industry": "A 飲食",
+		"note1": "ダイニングバー"
+	},
+	{
+		"name": "らーめん柊",
+		"area": "02 実籾",
+		"address": "実籾4-5-14",
+		"industry": "A 飲食",
+		"note1": "ラーメン"
+	},
+	{
+		"name": "なごみらんど",
+		"area": "02 実籾",
+		"address": "実籾4-20-9-101 ウィングテラス実籾",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "マッサージ"
+	},
+	{
+		"name": "NailRoom Aim",
+		"area": "02 実籾",
+		"address": "実籾4-25-5",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "ネイル"
+	},
+	{
+		"name": "hair design RISE",
+		"area": "02 実籾",
+		"address": "実籾4-3-14 ブレミールN",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "美容室"
+	},
+	{
+		"name": "まちのほぐしやさん",
+		"area": "02 実籾",
+		"address": "実籾4-7-12",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "マッサージ"
+	},
+	{
+		"name": "くくる整骨院鍼灸院",
+		"area": "02 実籾",
+		"address": "実籾4-3-15 中村ビル1F",
+		"industry": "D 医療",
+		"note1": "-"
+	},
+	{
+		"name": "あんどうクリニック",
+		"area": "02 実籾",
+		"address": "実籾4-6-7",
+		"industry": "D 医療",
+		"note1": "-"
+	},
+	{
+		"name": "E+PLACE English&Café",
+		"area": "02 実籾",
+		"address": "実籾5-5-14 第二白鳥ビル1F",
+		"industry": "A 飲食",
+		"note1": "禁煙",
+		"note2": "カフェ",
+		"note3": "まん延防止等重点措置期間中は休業との情報あり"
+	},
+	{
+		"name": "伊太そば／きむらさん家",
+		"area": "02 実籾",
+		"address": "実籾5-8-8",
+		"industry": "A 飲食",
+		"note1": "禁煙",
+		"note2": "ラーメン"
+	},
+	{
+		"name": "大久保園 実籾店",
+		"area": "02 実籾",
+		"address": "実籾5-3-24 白鳥製菓ビル",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "茶､落花生"
+	},
+	{
+		"name": "ひだまり接骨院",
+		"area": "02 実籾",
+		"address": "実籾5-9-29",
+		"industry": "D 医療",
+		"note1": "-"
+	},
+	{
+		"name": "習志野ロックセンター",
+		"area": "02 実籾",
+		"address": "実籾5-23-3",
+		"industry": "E その他",
+		"note1": "-",
+		"note2": "鍵"
+	},
+	{
+		"name": "おそうじHOUSE",
+		"area": "02 実籾",
+		"address": "実籾6-6-1",
+		"industry": "E その他",
+		"note1": "-"
+	},
+	{
+		"name": "JA千葉みらい しょいか～ご習志野店",
+		"area": "03 実籾本郷",
+		"address": "実籾本郷34-1",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "農作物"
+	},
+	{
+		"name": "美容室リベーラ",
+		"area": "05 新栄",
+		"address": "新栄1-4-7",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "美容室"
+	},
+	{
+		"name": "スタジオ・イワノ",
+		"area": "05 新栄",
+		"address": "新栄1-10-1-307",
+		"industry": "E その他",
+		"note1": "-"
+	},
+	{
+		"name": "日本大学生産工学部 購買部",
+		"area": "06 泉町",
+		"address": "泉町1-2-1 日本大学生産工学部2号館",
+		"industry": "B 小売り",
+		"note1": "-"
+	},
+	{
+		"name": "ワルツ Jazz&Rock",
+		"area": "06 泉町",
+		"address": "泉町2-1-33",
+		"industry": "A 飲食",
+		"note1": "バー"
+	},
+	{
+		"name": "cut gallery CORE3",
+		"area": "06 泉町",
+		"address": "泉町3-1-5 ファーストエイド24ビル2F",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "美容室"
+	},
+	{
+		"name": "上小路タクシー",
+		"area": "06 泉町",
+		"address": "泉町3",
+		"industry": "E その他",
+		"note1": "-",
+		"note2": "個人タクシー"
+	},
+	{
+		"name": "スターカフェ",
+		"area": "11 大久保",
+		"address": "大久保1-16-13 宮崎ビル",
+		"industry": "A 飲食",
+		"note1": "禁煙",
+		"note2": "カフェ"
+	},
+	{
+		"name": "晴の厨",
+		"area": "11 大久保",
+		"address": "大久保1-16-7",
+		"industry": "A 飲食",
+		"note1": "居酒屋"
+	},
+	{
+		"name": "エムエヌエス ケバブ",
+		"area": "11 大久保",
+		"address": "大久保1-18-5",
+		"industry": "A 飲食",
+		"note1": "ケバブ",
+		"note2": "テイクアウトのみ"
+	},
+	{
+		"name": "安安食堂",
+		"area": "11 大久保",
+		"address": "大久保1-18-5 岡野ビル1F",
+		"industry": "A 飲食",
+		"note1": "中華料理"
+	},
+	{
+		"name": "桂林餃子 満足",
+		"area": "11 大久保",
+		"address": "大久保1-23-11",
+		"industry": "A 飲食",
+		"note1": "中華料理"
+	},
+	{
+		"name": "味四川 四川ダイニング",
+		"area": "11 大久保",
+		"address": "大久保1-23-11 2F",
+		"industry": "A 飲食",
+		"note1": "中華料理"
+	},
+	{
+		"name": "かをり本丸",
+		"area": "11 大久保",
+		"address": "大久保1-24-16",
+		"industry": "A 飲食",
+		"note1": "禁煙",
+		"note2": "ジビエ､創作料理"
+	},
+	{
+		"name": "ゴールドピザ",
+		"area": "11 大久保",
+		"address": "大久保1-25-12 ファンタジア第一ビル1階",
+		"industry": "A 飲食",
+		"note1": "禁煙",
+		"note2": "ピザ"
+	},
+	{
+		"name": "タピオカ一茶（ワンティー）",
+		"area": "11 大久保",
+		"address": "大久保1-25-14 関ビル1F",
+		"industry": "A 飲食",
+		"note1": "タピオカ"
+	},
+	{
+		"name": "そば処 いっぴんさん",
+		"area": "11 大久保",
+		"address": "大久保1-27-3",
+		"industry": "A 飲食",
+		"note1": "そば"
+	},
+	{
+		"name": "いかが家 わらじぱん",
+		"area": "11 大久保",
+		"address": "大久保1-27-38",
+		"industry": "A 飲食",
+		"note1": "パン"
+	},
+	{
+		"name": "mizoreya",
+		"area": "11 大久保",
+		"address": "大久保1-28-6",
+		"industry": "A 飲食",
+		"note1": "禁煙",
+		"note2": "かき氷"
+	},
+	{
+		"name": "大久保園 マルエツ大久保店",
+		"area": "11 大久保",
+		"address": "大久保1-11-20 マルエツ大久保駅前店内",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "茶､落花生"
+	},
+	{
+		"name": "龍翔堂 千葉大久保店",
+		"area": "11 大久保",
+		"address": "大久保1-16-15",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "タピオカ"
+	},
+	{
+		"name": "Fiorina（フィオリーナ）",
+		"area": "11 大久保",
+		"address": "大久保1-16-17",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "ペットショップ"
+	},
+	{
+		"name": "寝具の都築（都築わたふとん店）",
+		"area": "11 大久保",
+		"address": "大久保1-16-8",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "寝具"
+	},
+	{
+		"name": "習志野メガネセンター",
+		"area": "11 大久保",
+		"address": "大久保1-18-10",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "メガネ"
+	},
+	{
+		"name": "アングレース 大久保店",
+		"area": "11 大久保",
+		"address": "大久保1-23-16",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "服飾"
+	},
+	{
+		"name": "和光",
+		"area": "11 大久保",
+		"address": "大久保1-23-17",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "コンタクトレンズ"
+	},
+	{
+		"name": "マハロ",
+		"area": "11 大久保",
+		"address": "大久保1-24-2",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "服飾"
+	},
+	{
+		"name": "VicoloJewels（ビーコロジュエルズ）",
+		"area": "11 大久保",
+		"address": "大久保1-27-1",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "宝飾"
+	},
+	{
+		"name": "張替酒店",
+		"area": "11 大久保",
+		"address": "大久保1-9-8",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "酒"
+	},
+	{
+		"name": "voga hair design",
+		"area": "11 大久保",
+		"address": "大久保1-17-11 ヤマダビルA号室",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "美容室"
+	},
+	{
+		"name": "verite 2",
+		"area": "11 大久保",
+		"address": "大久保1-17-13",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "美容室"
+	},
+	{
+		"name": "airs 大久保店",
+		"area": "11 大久保",
+		"address": "大久保1-26-17 第三松寿ビル102",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "美容室"
+	},
+	{
+		"name": "hair bantean ヘア―ヴァンテアン",
+		"area": "11 大久保",
+		"address": "大久保1-27-3 井沢ビル201",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "美容室"
+	},
+	{
+		"name": "ホリスティックビューティー by airs",
+		"area": "11 大久保",
+		"address": "大久保1-27-6 清水ビル1F",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "シェービング"
+	},
+	{
+		"name": "こころカイロプラクティック療院",
+		"area": "11 大久保",
+		"address": "大久保1-28-3 佐久間ビル2階",
+		"industry": "D 医療",
+		"note1": "-"
+	},
+	{
+		"name": "アジアンダイニング＆バー POKHARA",
+		"area": "11 大久保",
+		"address": "大久保1-16-18 プラザグレミオ1F",
+		"industry": "A 飲食",
+		"note1": "カレー"
+	},
+	{
+		"name": "CAFÉ MARUKA",
+		"area": "11 大久保",
+		"address": "大久保1-16-18 プラザグレミオ2C",
+		"industry": "A 飲食",
+		"note1": "禁煙",
+		"note2": "カフェ"
+	},
+	{
+		"name": "バレルカフェAims",
+		"area": "11 大久保",
+		"address": "大久保1-16-18 プラザグレミオ2E",
+		"industry": "A 飲食",
+		"note1": "ダーツバー"
+	},
+	{
+		"name": "まんぷく食堂",
+		"area": "11 大久保",
+		"address": "大久保2-5-3",
+		"industry": "A 飲食",
+		"note1": "定食"
+	},
+	{
+		"name": "はなや花衛門",
+		"area": "11 大久保",
+		"address": "大久保2-4-7",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "生花"
+	},
+	{
+		"name": "ファミリーサロンアップル",
+		"area": "11 大久保",
+		"address": "大久保2-1-1 熊倉ビル1F",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "理容室"
+	},
+	{
+		"name": "古川医院",
+		"area": "11 大久保",
+		"address": "大久保2-14-20",
+		"industry": "D 医療",
+		"note1": "-"
+	},
+	{
+		"name": "パソコンハウス＆スクール ゆめ工房",
+		"area": "11 大久保",
+		"address": "大久保2-1-1 セナクール熊倉1-B",
+		"industry": "E その他",
+		"note1": "-"
+	},
+	{
+		"name": "拉麺いさりび 京成大久保店",
+		"area": "11 大久保",
+		"address": "大久保3-11-24",
+		"industry": "A 飲食",
+		"note1": "禁煙",
+		"note2": "ラーメン"
+	},
+	{
+		"name": "サンティ 京成大久保店",
+		"area": "11 大久保",
+		"address": "大久保3-12-5",
+		"industry": "A 飲食",
+		"note1": "カレー"
+	},
+	{
+		"name": "市場食堂 八",
+		"area": "11 大久保",
+		"address": "大久保3-12-5 伊藤ハイツ101",
+		"industry": "A 飲食",
+		"note1": "定食"
+	},
+	{
+		"name": "マンドリン ハンバーガーキッチン",
+		"area": "11 大久保",
+		"address": "大久保3-13-12 宍倉ビル101",
+		"industry": "A 飲食",
+		"note1": "禁煙",
+		"note2": "ハンバーガー"
+	},
+	{
+		"name": "肉乃本気丼（にくのまじどん）",
+		"area": "11 大久保",
+		"address": "大久保3-13-12 宍倉ビル102",
+		"industry": "A 飲食",
+		"note1": "丼"
+	},
+	{
+		"name": "麺家 西陣",
+		"area": "11 大久保",
+		"address": "大久保3-13-4 大久保ビル1F",
+		"industry": "A 飲食",
+		"note1": "禁煙",
+		"note2": "ラーメン､カレー"
+	},
+	{
+		"name": "本格ジンギスカンの店 ひつじん",
+		"area": "11 大久保",
+		"address": "大久保3-15-1",
+		"industry": "A 飲食",
+		"note1": "禁煙",
+		"note2": "ジンギスカン"
+	},
+	{
+		"name": "dining hitotsuki 一ツ喜",
+		"area": "11 大久保",
+		"address": "大久保3-15-19",
+		"industry": "A 飲食",
+		"note1": "居酒屋"
+	},
+	{
+		"name": "広田米店（廣田岩松商店）",
+		"area": "11 大久保",
+		"address": "大久保3-10-22",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "米"
+	},
+	{
+		"name": "大和屋書店",
+		"area": "11 大久保",
+		"address": "大久保3-11-19",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "書籍"
+	},
+	{
+		"name": "心地よいメガネmomo",
+		"area": "11 大久保",
+		"address": "大久保3-11-20",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "メガネ"
+	},
+	{
+		"name": "有限会社鮎澤靴店",
+		"area": "11 大久保",
+		"address": "大久保3-14-1",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "靴"
+	},
+	{
+		"name": "アガぺいわなみ薬局",
+		"area": "11 大久保",
+		"address": "大久保3-2-12",
+		"industry": "D 医療",
+		"note1": "-"
+	},
+	{
+		"name": "大久保園 本店",
+		"area": "11 大久保",
+		"address": "大久保3-15-3",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "茶､落花生"
+	},
+	{
+		"name": "信州手打そば処 くるみ庵",
+		"area": "11 大久保",
+		"address": "大久保4-2-1 メゾン都築1階",
+		"industry": "A 飲食",
+		"note1": "禁煙",
+		"note2": "そば"
+	},
+	{
+		"name": "美肌工房アイリス",
+		"area": "11 大久保",
+		"address": "大久保4-2-7",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "化粧品"
+	},
+	{
+		"name": "GREEN RISE",
+		"area": "12 本大久保",
+		"address": "本大久保1-4-10",
+		"industry": "A 飲食",
+		"note1": "ハワイアンカフェ"
+	},
+	{
+		"name": "習クワ",
+		"area": "12 本大久保",
+		"address": "本大久保1-5-10 白光舎ビル2階",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "ペットショップ"
+	},
+	{
+		"name": "大久保まりも整骨院･鍼灸院",
+		"area": "12 本大久保",
+		"address": "本大久保1-4-28-102",
+		"industry": "D 医療",
+		"note1": "-"
+	},
+	{
+		"name": "ダリー",
+		"area": "12 本大久保",
+		"address": "本大久保2-20-24 江戸屋ビル3F",
+		"industry": "A 飲食",
+		"note1": "喫茶店､バー"
+	},
+	{
+		"name": "居酒屋 凧",
+		"area": "12 本大久保",
+		"address": "本大久保3-6-6",
+		"industry": "A 飲食",
+		"note1": "居酒屋"
+	},
+	{
+		"name": "キッチンぽん太",
+		"area": "12 本大久保",
+		"address": "本大久保3-9-4",
+		"industry": "A 飲食",
+		"note1": "禁煙",
+		"note2": "ダイニングバー"
+	},
+	{
+		"name": "朱鷺美術",
+		"area": "12 本大久保",
+		"address": "本大久保3-1-2",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "画廊"
+	},
+	{
+		"name": "ビューティースマイル",
+		"area": "12 本大久保",
+		"address": "本大久保3-3-9",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "健康食品"
+	},
+	{
+		"name": "ギャラリー 林檎の木 and R",
+		"area": "12 本大久保",
+		"address": "本大久保3-8-3 河合ビルB2F",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "画廊"
+	},
+	{
+		"name": "東京だんご",
+		"area": "12 本大久保",
+		"address": "本大久保3-9-3",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "和菓子"
+	},
+	{
+		"name": "カトランベーカリー",
+		"area": "12 本大久保",
+		"address": "本大久保4-16-6",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "パン"
+	},
+	{
+		"name": "Nail. Gardenia",
+		"area": "12 本大久保",
+		"address": "本大久保4-10-5",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "ネイル"
+	},
+	{
+		"name": "大久保クリニック",
+		"area": "12 本大久保",
+		"address": "本大久保4-14-10 102号",
+		"industry": "D 医療",
+		"note1": "-"
+	},
+	{
+		"name": "手打ちそば くにじ",
+		"area": "12 本大久保",
+		"address": "本大久保5-3-16",
+		"industry": "A 飲食",
+		"note1": "禁煙",
+		"note2": "そば",
+		"note3": "※店舗確認済み（全面禁煙）"
+	},
+	{
+		"name": "Barber カミサト",
+		"area": "12 本大久保",
+		"address": "本大久保5-3-23",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "理容室"
+	},
+	{
+		"name": "有限会社 青木自動車整備工場",
+		"area": "12 本大久保",
+		"address": "本大久保5-4-12",
+		"industry": "E その他",
+		"note1": "-"
+	},
+	{
+		"name": "桂林餃子 満足 幕張本郷店",
+		"area": "13 花咲",
+		"address": "花咲1-3-24",
+		"industry": "A 飲食",
+		"note1": "中華料理"
+	},
+	{
+		"name": "mom’s via マームズビア",
+		"area": "13 花咲",
+		"address": "花咲2-9-26",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "美容室"
+	},
+	{
+		"name": "ザリトルモンスターコーヒー",
+		"area": "14 鷺沼",
+		"address": "鷺沼1-2-2 NKCビル地下1階",
+		"industry": "A 飲食",
+		"note1": "禁煙",
+		"note2": "カフェ"
+	},
+	{
+		"name": "インド料理 ババ",
+		"area": "14 鷺沼",
+		"address": "鷺沼1-6-7 サンライフヒロセⅡ",
+		"industry": "A 飲食",
+		"note1": "禁煙",
+		"note2": "インド料理"
+	},
+	{
+		"name": "まる太食堂",
+		"area": "14 鷺沼",
+		"address": "鷺沼2-5-29",
+		"industry": "A 飲食",
+		"note1": "禁煙",
+		"note2": "定食"
+	},
+	{
+		"name": "日本ペットシッターサービス 習志野店",
+		"area": "14 鷺沼",
+		"address": "鷺沼2-8-23",
+		"industry": "E その他",
+		"note1": "-"
+	},
+	{
+		"name": "ヘアーサロン Lets",
+		"area": "14 鷺沼",
+		"address": "鷺沼3-3-17",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "理容室"
+	},
+	{
+		"name": "四季の旬彩 なつみ",
+		"area": "14 鷺沼",
+		"address": "鷺沼4-4-2",
+		"industry": "A 飲食",
+		"note1": "割烹"
+	},
+	{
+		"name": "Fishing Tackle Shop タイドプール",
+		"area": "14 鷺沼",
+		"address": "鷺沼5-6-32-103 鷺沼マンション1F",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "釣具"
+	},
+	{
+		"name": "atelier RIN.",
+		"area": "14 鷺沼",
+		"address": "鷺沼5-6-32-106 鷺沼マンション1F",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "美容室"
+	},
+	{
+		"name": "乗馬用品 プラス",
+		"area": "15 鷺沼台",
+		"address": "鷺沼台3-17-15",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "乗馬用品"
+	},
+	{
+		"name": "ぱんや Passo",
+		"area": "15 鷺沼台",
+		"address": "鷺沼台3-3-16",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "パン"
+	},
+	{
+		"name": "Little ZUCI リトルシュチ",
+		"area": "16 津田沼",
+		"address": "津田沼1-10-14",
+		"industry": "A 飲食",
+		"note1": "-",
+		"note2": "タイ料理",
+		"note3": "テイクアウト､デリバリーのみ"
+	},
+	{
+		"name": "ヒマラヤ 千葉津田沼店",
+		"area": "16 津田沼",
+		"address": "津田沼1-10-41",
+		"industry": "A 飲食",
+		"note1": "禁煙",
+		"note2": "カレー"
+	},
+	{
+		"name": "Kuni's･Bar クニーズバー",
+		"area": "16 津田沼",
+		"address": "津田沼1-10-41 十番街ビル2F",
+		"industry": "A 飲食",
+		"note1": "バー"
+	},
+	{
+		"name": "農家の台所 八助 津田沼店",
+		"area": "16 津田沼",
+		"address": "津田沼1-2-7 ウェルズ21津田沼ビル5F",
+		"industry": "A 飲食",
+		"note1": "居酒屋"
+	},
+	{
+		"name": "肉と日本酒バル ワラカド 津田沼店",
+		"area": "16 津田沼",
+		"address": "津田沼1-3-11 昭和第3ビル2F",
+		"industry": "A 飲食",
+		"note1": "居酒屋",
+		"note2": "未成年者立ち入り不可"
+	},
+	{
+		"name": "たちばな書店 津田沼店",
+		"area": "16 津田沼",
+		"address": "津田沼1-2-7 ウェルズ21津田沼ビルB1",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "成年向け"
+	},
+	{
+		"name": "reve 津田沼店 レーヴ",
+		"area": "16 津田沼",
+		"address": "津田沼1-10-41 十番街ビル2F",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "美容室"
+	},
+	{
+		"name": "リラクゼーションサロン YUZU",
+		"area": "16 津田沼",
+		"address": "津田沼1-13-24 カメリヤ207号室",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "マッサージ"
+	},
+	{
+		"name": "Fairy Step",
+		"area": "16 津田沼",
+		"address": "津田沼1-14-1 美容室ヴェール･レッシュブ内2F",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "ネイル"
+	},
+	{
+		"name": "イッセンチ",
+		"area": "16 津田沼",
+		"address": "津田沼1-16-2",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "美容室"
+	},
+	{
+		"name": "BodySalon Lib.B",
+		"area": "16 津田沼",
+		"address": "津田沼1-16-2 三信ビル102",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "マッサージ"
+	},
+	{
+		"name": "モイプラス",
+		"area": "16 津田沼",
+		"address": "津田沼1-17-4 グランデュールJ1F",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "美容室"
+	},
+	{
+		"name": "モイヘアーデザイン",
+		"area": "16 津田沼",
+		"address": "津田沼1-21-31 K&Gコスモス201号",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "美容室"
+	},
+	{
+		"name": "NUMBER plus",
+		"area": "16 津田沼",
+		"address": "津田沼1-2-23 津田沼駅前ビル7F",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "美容室"
+	},
+	{
+		"name": "津田沼こどもクリニック",
+		"area": "16 津田沼",
+		"address": "津田沼1-15-31 フラワーズドリーム1階",
+		"industry": "D 医療",
+		"note1": "-"
+	},
+	{
+		"name": "DiveAward津田沼駅前本店",
+		"area": "16 津田沼",
+		"address": "津田沼1-2-22 小倉ビル4階",
+		"industry": "E その他",
+		"note1": "-"
+	},
+	{
+		"name": "プラスワン イトーヨーカドー津田沼店",
+		"area": "16 津田沼",
+		"address": "津田沼1-10-30 イトーヨーカドー津田沼店1F",
+		"industry": "E その他",
+		"note1": "-",
+		"note2": "合鍵､靴修理"
+	},
+	{
+		"name": "Atithi アティティ 津田沼店",
+		"area": "16 津田沼",
+		"address": "津田沼2-1-10",
+		"industry": "A 飲食",
+		"note1": "禁煙",
+		"note2": "カレー"
+	},
+	{
+		"name": "テキサス 津田沼店",
+		"area": "16 津田沼",
+		"address": "津田沼2-6-34",
+		"industry": "A 飲食",
+		"note1": "ステーキ"
+	},
+	{
+		"name": "欧風食堂タブリエ",
+		"area": "16 津田沼",
+		"address": "津田沼2-6-34 白鳥ビル105号室",
+		"industry": "A 飲食",
+		"note1": "禁煙",
+		"note2": "イタリア料理"
+	},
+	{
+		"name": "ブラウンサウンドコーヒー",
+		"area": "16 津田沼",
+		"address": "津田沼2-8-11",
+		"industry": "A 飲食",
+		"note1": "禁煙",
+		"note2": "カフェ"
+	},
+	{
+		"name": "リサイクル・アールショップ",
+		"area": "16 津田沼",
+		"address": "津田沼2-3-44 TOP津田沼",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "リサイクルショップ"
+	},
+	{
+		"name": "HAIR en ヘアーエン",
+		"area": "16 津田沼",
+		"address": "津田沼2-5-9 マロニエパスタビル1F",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "美容室"
+	},
+	{
+		"name": "高橋整骨",
+		"area": "16 津田沼",
+		"address": "津田沼2-10-20",
+		"industry": "D 医療",
+		"note1": "-"
+	},
+	{
+		"name": "アートファクトリー陶芸教室",
+		"area": "16 津田沼",
+		"address": "津田沼2-11-20-102",
+		"industry": "E その他",
+		"note1": "-"
+	},
+	{
+		"name": "ブライダルコレクション オズ",
+		"area": "16 津田沼",
+		"address": "津田沼2-5-9 マロニエパスタビル2F",
+		"industry": "E その他",
+		"note1": "-"
+	},
+	{
+		"name": "郷（ざと）",
+		"area": "16 津田沼",
+		"address": "津田沼3-20-17",
+		"industry": "A 飲食",
+		"note1": "ラーメン"
+	},
+	{
+		"name": "EJURE by waft noa エジュール バイ ワフトノア",
+		"area": "16 津田沼",
+		"address": "津田沼3-4-23 カーサポルタ23B",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "美容室"
+	},
+	{
+		"name": "キュアネイル 京成津田沼店",
+		"area": "16 津田沼",
+		"address": "津田沼3-4-23 カーサポルタ32A",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "ネイル"
+	},
+	{
+		"name": "アルパカ接骨院",
+		"area": "16 津田沼",
+		"address": "津田沼3-20-17",
+		"industry": "D 医療",
+		"note1": "-"
+	},
+	{
+		"name": "吉川耳鼻咽喉科医院",
+		"area": "16 津田沼",
+		"address": "津田沼3-3-4",
+		"industry": "D 医療",
+		"note1": "-"
+	},
+	{
+		"name": "ふなき接骨院",
+		"area": "16 津田沼",
+		"address": "津田沼3-9-3",
+		"industry": "D 医療",
+		"note1": "-"
+	},
+	{
+		"name": "海鮮たか丸",
+		"area": "16 津田沼",
+		"address": "津田沼4-9-16",
+		"industry": "A 飲食",
+		"note1": "定食､居酒屋"
+	},
+	{
+		"name": "習志野商工会議所",
+		"area": "16 津田沼",
+		"address": "津田沼4-11-14",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "習志野ソーセージ"
+	},
+	{
+		"name": "WESPON ウェスポン",
+		"area": "16 津田沼",
+		"address": "津田沼4-1-25 ダイワティアラ1FA",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "海外食品"
+	},
+	{
+		"name": "月辰会活法整体院",
+		"area": "16 津田沼",
+		"address": "津田沼4-1-25 ダイワティアラ津田沼C号",
+		"industry": "D 医療",
+		"note1": "-"
+	},
+	{
+		"name": "から揚げの本田商店 京成津田沼店",
+		"area": "16 津田沼",
+		"address": "津田沼5-11-14 コラム21 1階",
+		"industry": "A 飲食",
+		"note1": "から揚げ"
+	},
+	{
+		"name": "HEALTH CARE CAFÉ LEVANTE",
+		"area": "16 津田沼",
+		"address": "津田沼5-14-27 アロマテラス",
+		"industry": "A 飲食",
+		"note1": "カフェ"
+	},
+	{
+		"name": "レストラン キャラバンサライ",
+		"area": "16 津田沼",
+		"address": "津田沼5-14-5",
+		"industry": "A 飲食",
+		"note1": "禁煙",
+		"note2": "洋食"
+	},
+	{
+		"name": "志福楼",
+		"area": "16 津田沼",
+		"address": "津田沼5-1-8",
+		"industry": "A 飲食",
+		"note1": "禁煙",
+		"note2": "中華料理"
+	},
+	{
+		"name": "レストラン ヴィーニュ",
+		"area": "16 津田沼",
+		"address": "津田沼5-4-30 第2伊藤ビル1階",
+		"industry": "A 飲食",
+		"note1": "禁煙",
+		"note2": "フランス料理"
+	},
+	{
+		"name": "Jharana ジャラナ",
+		"area": "16 津田沼",
+		"address": "津田沼5-9-6",
+		"industry": "A 飲食",
+		"note1": "カレー"
+	},
+	{
+		"name": "TU THAO",
+		"area": "16 津田沼",
+		"address": "津田沼5-9-11 都築ビル1号室",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "海外食品"
+	},
+	{
+		"name": "新宅酒店",
+		"area": "16 津田沼",
+		"address": "津田沼5-9-19",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "酒"
+	},
+	{
+		"name": "altina アルティーナ 津田沼店",
+		"area": "16 津田沼",
+		"address": "津田沼5-11-10 吉田ビル1階",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "美容室"
+	},
+	{
+		"name": "KoKopelli of hair",
+		"area": "16 津田沼",
+		"address": "津田沼5-11-14 コラム21 2階",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "美容室"
+	},
+	{
+		"name": "フォールハート FOREST",
+		"area": "16 津田沼",
+		"address": "津田沼5-5-21 ダイワアネックス1階",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "美容室"
+	},
+	{
+		"name": "まりも整骨院･鍼灸院",
+		"area": "16 津田沼",
+		"address": "津田沼5-11-8",
+		"industry": "D 医療",
+		"note1": "-"
+	},
+	{
+		"name": "トリミングサロン パルフェ",
+		"area": "16 津田沼",
+		"address": "津田沼5-5-32",
+		"industry": "E その他",
+		"note1": "-"
+	},
+	{
+		"name": "雑貨屋Forest フォレスト",
+		"area": "16 津田沼",
+		"address": "津田沼5-12-12 サンロード津田沼1階",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "雑貨"
+	},
+	{
+		"name": "Nail Salon M",
+		"area": "16 津田沼",
+		"address": "津田沼5-12-12 サンロード津田沼1階",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "ネイル"
+	},
+	{
+		"name": "博多亭 司",
+		"area": "16 津田沼",
+		"address": "津田沼6-14-28",
+		"industry": "A 飲食",
+		"note1": "居酒屋"
+	},
+	{
+		"name": "三河屋豆腐店",
+		"area": "16 津田沼",
+		"address": "津田沼6-2-1",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "豆腐"
+	},
+	{
+		"name": "タカハシサイクル",
+		"area": "16 津田沼",
+		"address": "津田沼6-2-19",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "自転車"
+	},
+	{
+		"name": "創菓旬彩 新月",
+		"area": "16 津田沼",
+		"address": "津田沼6-2-3",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "和菓子"
+	},
+	{
+		"name": "Hair Studio COZY",
+		"area": "16 津田沼",
+		"address": "津田沼6-12-4",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "美容室"
+	},
+	{
+		"name": "ベルトリー",
+		"area": "16 津田沼",
+		"address": "津田沼7-1-9",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "額縁"
+	},
+	{
+		"name": "Hair salon LITA",
+		"area": "16 津田沼",
+		"address": "津田沼7-9-30",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "美容室"
+	},
+	{
+		"name": "みつはしはり灸院",
+		"area": "16 津田沼",
+		"address": "津田沼7-9-30 サンリッチ津田沼102",
+		"industry": "D 医療",
+		"note1": "-"
+	},
+	{
+		"name": "勝自動車販売",
+		"area": "17 藤崎",
+		"address": "藤崎1-10-11",
+		"industry": "E その他",
+		"note1": "-",
+		"note2": "自動車整備"
+	},
+	{
+		"name": "Nail Lusty",
+		"area": "17 藤崎",
+		"address": "藤崎2-17-23 コートハウスカワイA",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "ネイル"
+	},
+	{
+		"name": "エステサロン miyabi",
+		"area": "17 藤崎",
+		"address": "藤崎2-2-26",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "エステ"
+	},
+	{
+		"name": "ヘアートークスタジオCP",
+		"area": "17 藤崎",
+		"address": "藤崎2-8-22",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "美容室"
+	},
+	{
+		"name": "Lani Hawaii",
+		"area": "17 藤崎",
+		"address": "藤崎3-9-40",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "雑貨"
+	},
+	{
+		"name": "オアシス",
+		"area": "17 藤崎",
+		"address": "藤崎4-8-42",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "理容室"
+	},
+	{
+		"name": "小林刷毛製造所",
+		"area": "17 藤崎",
+		"address": "藤崎5-7-5",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "刷毛"
+	},
+	{
+		"name": "Care Taxi Life Will",
+		"area": "17 藤崎",
+		"address": "藤崎5",
+		"industry": "E その他",
+		"note1": "-",
+		"note2": "介護タクシー"
+	},
+	{
+		"name": "袖ケ浦園芸センター",
+		"area": "21 袖ケ浦",
+		"address": "袖ケ浦1-19-4",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "生花"
+	},
+	{
+		"name": "有限会社朱泉",
+		"area": "21 袖ケ浦",
+		"address": "袖ケ浦1-8-13",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "エステ"
+	},
+	{
+		"name": "パン工房 Bell",
+		"area": "21 袖ケ浦",
+		"address": "袖ケ浦3-5-2-106",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "パン"
+	},
+	{
+		"name": "うけや書店",
+		"area": "21 袖ケ浦",
+		"address": "袖ケ浦3-5-3-9",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "書籍"
+	},
+	{
+		"name": "赤松眼科医院",
+		"area": "21 袖ケ浦",
+		"address": "袖ケ浦4-17-5",
+		"industry": "D 医療",
+		"note1": "-"
+	},
+	{
+		"name": "ペットケアサロン ラポール",
+		"area": "21 袖ケ浦",
+		"address": "袖ケ浦5-7-4",
+		"industry": "E その他",
+		"note1": "-"
+	},
+	{
+		"name": "Lotus Blossom ロータスブロッサム",
+		"area": "22 香澄",
+		"address": "香澄6-10-15",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "生花"
+	},
+	{
+		"name": "三興ベンディング株式会社",
+		"area": "24 茜浜",
+		"address": "茜浜1-14-3",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "飲料(自販機)"
+	},
+	{
+		"name": "株式会社京葉タクシー",
+		"area": "24 茜浜",
+		"address": "茜浜1",
+		"industry": "E その他",
+		"note1": "-"
+	},
+	{
+		"name": "とんかつ大和楽",
+		"area": "24 茜浜",
+		"address": "茜浜2-2-1 メルクス新習志野2階",
+		"industry": "A 飲食",
+		"note1": "禁煙",
+		"note2": "とんかつ"
+	},
+	{
+		"name": "三橋商店",
+		"area": "25 秋津",
+		"address": "秋津4-1-8",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "金物"
+	},
+	{
+		"name": "La place douce ラプラスドゥ",
+		"area": "25 秋津",
+		"address": "秋津4-10-1",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "美容室"
+	},
+	{
+		"name": "森之泉（森登志夫畳店）",
+		"area": "25 秋津",
+		"address": "秋津4-8-9",
+		"industry": "E その他",
+		"note1": "-",
+		"note2": "畳"
+	},
+	{
+		"name": "インド料理ニサン 千葉店",
+		"area": "26 谷津",
+		"address": "谷津1-17-9 SAKビルB1階",
+		"industry": "A 飲食",
+		"note1": "カレー"
+	},
+	{
+		"name": "MOCKTAIL STORY モクテルストーリー",
+		"area": "26 谷津",
+		"address": "谷津1-11-4",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "タピオカ"
+	},
+	{
+		"name": "YELLOW TRAIN",
+		"area": "26 谷津",
+		"address": "谷津1-17-7 三愛谷津ビル201",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "鉄道模型"
+	},
+	{
+		"name": "Jasmine",
+		"area": "26 谷津",
+		"address": "谷津1-10-9 えび屋ビル206",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "ヘッドスパ"
+	},
+	{
+		"name": "each イーチ",
+		"area": "26 谷津",
+		"address": "谷津1-11-11",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "美容室"
+	},
+	{
+		"name": "For all",
+		"area": "26 谷津",
+		"address": "谷津1-11-13 小平ビル3F",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "ネイル"
+	},
+	{
+		"name": "hair make FIKA フィーカ",
+		"area": "26 谷津",
+		"address": "谷津1-13-15 みずほビル1F",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "美容室"
+	},
+	{
+		"name": "113 hair make アイスヘアーメイク",
+		"area": "26 谷津",
+		"address": "谷津1-17-26 深谷ビル202",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "美容室"
+	},
+	{
+		"name": "ウィル整骨院",
+		"area": "26 谷津",
+		"address": "谷津1-17-26 1F",
+		"industry": "D 医療",
+		"note1": "-"
+	},
+	{
+		"name": "奏の杜まりも整骨院･鍼灸院",
+		"area": "26 谷津",
+		"address": "谷津1-17-8 SAKビル101",
+		"industry": "D 医療",
+		"note1": "-"
+	},
+	{
+		"name": "弁護士法人M.L.T法律事務所",
+		"area": "26 谷津",
+		"address": "谷津1-11-4 ミューズガーデン谷津",
+		"industry": "E その他",
+		"note1": "-"
+	},
+	{
+		"name": "グリーン珈琲焙煎所 モリシア津田沼店",
+		"area": "26 谷津",
+		"address": "谷津1-16-1 モリシア津田沼B1F",
+		"industry": "A 飲食",
+		"note1": "禁煙",
+		"note2": "カフェ"
+	},
+	{
+		"name": "韓国屋台村 モリシア津田沼店",
+		"area": "26 谷津",
+		"address": "谷津1-16-1 モリシア津田沼B1F フードコート",
+		"industry": "A 飲食",
+		"note1": "禁煙",
+		"note2": "韓国料理"
+	},
+	{
+		"name": "マザーズクレープ 津田沼店",
+		"area": "26 谷津",
+		"address": "谷津1-16-1 モリシア津田沼1F",
+		"industry": "A 飲食",
+		"note1": "禁煙",
+		"note2": "クレープ"
+	},
+	{
+		"name": "彩茶房（さいさぼう）",
+		"area": "26 谷津",
+		"address": "谷津1-16-1 モリシア津田沼レストラン棟9Ｆ",
+		"industry": "A 飲食",
+		"note1": "禁煙",
+		"note2": "和食"
+	},
+	{
+		"name": "中国レストラン 三才坊",
+		"area": "26 谷津",
+		"address": "谷津1-16-1 モリシア津田沼レストラン棟9Ｆ",
+		"industry": "A 飲食",
+		"note1": "禁煙",
+		"note2": "中華料理"
+	},
+	{
+		"name": "グランドルチェ モリシア津田沼店",
+		"area": "26 谷津",
+		"address": "谷津1-16-1 モリシア津田沼B1F",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "洋菓子"
+	},
+	{
+		"name": "レオニダス モリシア津田沼店",
+		"area": "26 谷津",
+		"address": "谷津1-16-1 モリシア津田沼B1F",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "チョコレート"
+	},
+	{
+		"name": "BeLinDa モリシア津田沼店",
+		"area": "26 谷津",
+		"address": "谷津1-16-1 モリシア津田沼レストラン棟8F",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "ネイル､まつ毛"
+	},
+	{
+		"name": "スマイルピザ",
+		"area": "26 谷津",
+		"address": "谷津2-18-38",
+		"industry": "A 飲食",
+		"note1": "-",
+		"note2": "ピザ",
+		"note3": "テイクアウトのみ"
+	},
+	{
+		"name": "covo hair salon",
+		"area": "26 谷津",
+		"address": "谷津2-1-17 織戸ビル1F",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "美容室"
+	},
+	{
+		"name": "Dining bar 源七",
+		"area": "26 谷津",
+		"address": "谷津2-1-16",
+		"industry": "A 飲食",
+		"note1": "ダイニングバー"
+	},
+	{
+		"name": "谷津どうぶつ病院",
+		"area": "26 谷津",
+		"address": "谷津2-20-7",
+		"industry": "E その他",
+		"note1": "-"
+	},
+	{
+		"name": "味香園",
+		"area": "26 谷津",
+		"address": "谷津3-12-36 2F",
+		"industry": "A 飲食",
+		"note1": "中華料理"
+	},
+	{
+		"name": "ミートショップ ハローマザーズ",
+		"area": "26 谷津",
+		"address": "谷津3-1-2",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "精肉"
+	},
+	{
+		"name": "猪野タクシー",
+		"area": "26 谷津",
+		"address": "谷津3",
+		"industry": "E その他",
+		"note1": "-",
+		"note2": "個人タクシー"
+	},
+	{
+		"name": "池田屋",
+		"area": "26 谷津",
+		"address": "谷津4-4-13",
+		"industry": "A 飲食",
+		"note1": "ラーメン"
+	},
+	{
+		"name": "ヤツカフェ",
+		"area": "26 谷津",
+		"address": "谷津4-4-18 シャンティ谷津1F",
+		"industry": "A 飲食",
+		"note1": "禁煙",
+		"note2": "カフェ"
+	},
+	{
+		"name": "エルコラソン",
+		"area": "26 谷津",
+		"address": "谷津4-4-31",
+		"industry": "A 飲食",
+		"note1": "イタリア料理"
+	},
+	{
+		"name": "お食事処 轍（わだち）",
+		"area": "26 谷津",
+		"address": "谷津4-5-19",
+		"industry": "A 飲食",
+		"note1": "定食"
+	},
+	{
+		"name": "厨’S chiyuzu KITCHEN",
+		"area": "26 谷津",
+		"address": "谷津4-5-21 YH-3Sビル101",
+		"industry": "A 飲食",
+		"note1": "禁煙",
+		"note2": "創作料理"
+	},
+	{
+		"name": "サンティ 谷津店",
+		"area": "26 谷津",
+		"address": "谷津4-5-21 YH-3Sビル102",
+		"industry": "A 飲食",
+		"note1": "カレー"
+	},
+	{
+		"name": "ほうらい",
+		"area": "26 谷津",
+		"address": "谷津4-6-28",
+		"industry": "A 飲食",
+		"note1": "ラーメン"
+	},
+	{
+		"name": "天久",
+		"area": "26 谷津",
+		"address": "谷津4-6-30",
+		"industry": "A 飲食",
+		"note1": "お好み焼き"
+	},
+	{
+		"name": "和食板前の店 胡桃",
+		"area": "26 谷津",
+		"address": "谷津4-6-30",
+		"industry": "A 飲食",
+		"note1": "禁煙",
+		"note2": "和食"
+	},
+	{
+		"name": "ならしのクラフトビール むぎのいえ",
+		"area": "26 谷津",
+		"address": "谷津4-6-33 K&Y時遊館1F",
+		"industry": "A 飲食",
+		"note1": "禁煙",
+		"note2": "ビアホール"
+	},
+	{
+		"name": "鈴之助",
+		"area": "26 谷津",
+		"address": "谷津4-8-4-111",
+		"industry": "A 飲食",
+		"note1": "居酒屋"
+	},
+	{
+		"name": "インテリア海保",
+		"area": "26 谷津",
+		"address": "谷津4-4-15",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "服飾､雑貨"
+	},
+	{
+		"name": "ゼフィロス",
+		"area": "26 谷津",
+		"address": "谷津4-6-27",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "服飾、雑貨"
+	},
+	{
+		"name": "金のうさぎ",
+		"area": "26 谷津",
+		"address": "谷津4-6-28",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "洋菓子"
+	},
+	{
+		"name": "焼肉弁当まるはん",
+		"area": "26 谷津",
+		"address": "谷津4-8-45",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "弁当"
+	},
+	{
+		"name": "HIROSE PET 谷津店",
+		"area": "26 谷津",
+		"address": "谷津4-8-48",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "ペットショップ"
+	},
+	{
+		"name": "美容室エルム",
+		"area": "26 谷津",
+		"address": "谷津4-3-8",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "美容室"
+	},
+	{
+		"name": "HAiR TALK i’s",
+		"area": "26 谷津",
+		"address": "谷津4-6-25 加藤谷津ビル2階",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "美容室"
+	},
+	{
+		"name": "hair ROSE",
+		"area": "26 谷津",
+		"address": "谷津4-6-32",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "美容室"
+	},
+	{
+		"name": "美容室J-ONE",
+		"area": "26 谷津",
+		"address": "谷津4-7-21",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "美容室"
+	},
+	{
+		"name": "谷津駅前整骨院",
+		"area": "26 谷津",
+		"address": "谷津4-4-15",
+		"industry": "D 医療",
+		"note1": "-"
+	},
+	{
+		"name": "三代川モータース",
+		"area": "26 谷津",
+		"address": "谷津4-7-31",
+		"industry": "E その他",
+		"note1": "-"
+	},
+	{
+		"name": "凪",
+		"area": "26 谷津",
+		"address": "谷津5-4-8 斉藤ビル1F",
+		"industry": "A 飲食",
+		"note1": "居酒屋"
+	},
+	{
+		"name": "海月",
+		"area": "26 谷津",
+		"address": "谷津5-5-16-102",
+		"industry": "A 飲食",
+		"note1": "居酒屋"
+	},
+	{
+		"name": "Mania マニア",
+		"area": "26 谷津",
+		"address": "谷津5-4-11 やましんビル202",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "美容室"
+	},
+	{
+		"name": "ilashiku アイラシク",
+		"area": "26 谷津",
+		"address": "谷津5-4-9 岸田ビル2階",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "美容室"
+	},
+	{
+		"name": "デンタルオフィスおおき",
+		"area": "26 谷津",
+		"address": "谷津5-4-9 岸田ビル1階",
+		"industry": "D 医療",
+		"note1": "-"
+	},
+	{
+		"name": "まきた内科医院",
+		"area": "26 谷津",
+		"address": "谷津5-6-14",
+		"industry": "D 医療",
+		"note1": "-"
+	},
+	{
+		"name": "リカーショップ むつごろう",
+		"area": "26 谷津",
+		"address": "谷津6-7-12",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "酒"
+	},
+	{
+		"name": "KIRUSORU1058 キルソル",
+		"area": "26 谷津",
+		"address": "谷津6-17-14",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "理容室"
+	},
+	{
+		"name": "HAPPY HAPPY",
+		"area": "26 谷津",
+		"address": "谷津7-10-7",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "美容室"
+	},
+	{
+		"name": "PRAANA プラーナ",
+		"area": "26 谷津",
+		"address": "谷津7-5-13",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "美容室"
+	},
+	{
+		"name": "津田沼ネイルサロンつめ屋",
+		"area": "26 谷津",
+		"address": "谷津7-7-22 スーペリア津田沼314号室",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "ネイル"
+	},
+	{
+		"name": "Waft Taylor ワフトテイラー",
+		"area": "26 谷津",
+		"address": "谷津7-8-6 ラフィネ1F",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "美容室"
+	},
+	{
+		"name": "湘南パンケーキ Loharu津田沼店",
+		"area": "26 谷津",
+		"address": "谷津7-7-1 Loharu津田沼1F",
+		"industry": "A 飲食",
+		"note1": "禁煙",
+		"note2": "パンケーキ"
+	},
+	{
+		"name": "アンジェリカミッシェル 津田沼店",
+		"area": "26 谷津",
+		"address": "谷津7-7-1 Loharu津田沼1F",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "まつ毛､ネイル"
+	},
+	{
+		"name": "each dee（イーチディー）",
+		"area": "28 奏の杜",
+		"address": "奏の杜1-3-11 1F",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "美容室"
+	},
+	{
+		"name": "津田沼Y’s歯科クリニック奏の杜",
+		"area": "28 奏の杜",
+		"address": "奏の杜1-12-11 sonata1F B",
+		"industry": "D 医療",
+		"note1": "-"
+	},
+	{
+		"name": "CRACCa ITALIAN",
+		"area": "28 奏の杜",
+		"address": "奏の杜2-4-1 ベルグランデ奏の杜101",
+		"industry": "A 飲食",
+		"note1": "禁煙",
+		"note2": "イタリア料理"
+	},
+	{
+		"name": "プライベートネイルサロン Shiina シイナ",
+		"area": "28 奏の杜",
+		"address": "奏の杜2-3-1-1417",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "ネイル"
+	},
+	{
+		"name": "奏の杜すずらん皮膚科",
+		"area": "28 奏の杜",
+		"address": "奏の杜2-4-26",
+		"industry": "D 医療",
+		"note1": "-"
+	},
+	{
+		"name": "フランキンセンス 津田沼店",
+		"area": "28 奏の杜",
+		"address": "奏の杜2-1-1 奏の杜フォルテ2F",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "ネイル"
+	},
+	{
+		"name": "プラスワン 奏の杜フォルテ津田沼店",
+		"area": "28 奏の杜",
+		"address": "奏の杜2-1-1 奏の杜フォルテ1F",
+		"industry": "E その他",
+		"note1": "-",
+		"note2": "合鍵､靴修理"
+	},
+	{
+		"name": "奏の杜耳鼻咽喉科クリニック",
+		"area": "28 奏の杜",
+		"address": "奏の杜3-3-17",
+		"industry": "D 医療",
+		"note1": "-"
+	},
+	{
+		"name": "くわのみ書房",
+		"area": "11 大久保",
+		"address": "大久保1-8-10",
+		"industry": "A 飲食",
+		"note1": "カフェ､絵本",
+		"note2": "2月15日から対象"
+	},
+	{
+		"name": "セレクトショップ美美（みみ）",
+		"area": "11 大久保",
+		"address": "大久保2-2-3 川原田1F",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "服飾",
+		"note3": "2月15日から対象｡閉店との情報あり"
+	},
+	{
+		"name": "あせる王様 大久保店",
+		"area": "11 大久保",
+		"address": "大久保1-25-18",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "食パン",
+		"note3": "参加辞退（ｄ払い使用不可）"
+	},
+	{
+		"name": "ecru エクリュ",
+		"area": "16 津田沼",
+		"address": "津田沼1-12-28-1F",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "美容室",
+		"note3": "参加辞退（ｄ払い使用不可）"
+	},
+	{
+		"name": "楽楽屋 津田沼4号店",
+		"area": "26 谷津",
+		"address": "谷津7-7-1 Loharu津田沼B1F",
+		"industry": "A 飲食",
+		"note1": "禁煙",
+		"note2": "中華料理",
+		"note3": "参加辞退"
+	},
+	{
+		"name": "Smart Kitchen",
+		"area": "01 東習志野",
+		"address": "東習志野3-1-23 勝音ビル1F",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "閉店との情報あり（確認中）"
+	},
+	{
+		"name": "38BOTANIC",
+		"area": "02 実籾",
+		"address": "実籾4",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "情報確認中"
+	},
+	{
+		"name": "ステーキ共和国 大久保大使館",
+		"area": "11 大久保",
+		"address": "大久保1-23-11 1F",
+		"industry": "A 飲食",
+		"note1": "ステーキ",
+		"note2": "ｄ払い使用不可との情報あり（確認中）"
+	},
+	{
+		"name": "海と大地と炙り焼 海炎",
+		"area": "11 大久保",
+		"address": "大久保1-16-18 プラザグレミオ2A",
+		"industry": "A 飲食",
+		"note1": "居酒屋",
+		"note2": "閉店との情報あり（確認中）"
+	},
+	{
+		"name": "ごはんてい",
+		"area": "11 大久保",
+		"address": "大久保3-12-9 STROM WESTIN 1F",
+		"industry": "A 飲食",
+		"note1": "閉店との情報あり（確認中）"
+	},
+	{
+		"name": "onaona",
+		"area": "12 本大久保",
+		"address": "本大久保4-12-3",
+		"industry": "-",
+		"note1": "情報確認中"
+	},
+	{
+		"name": "アソビスキー",
+		"area": "16 津田沼",
+		"address": "津田沼6",
+		"industry": "-",
+		"note1": "情報確認中"
+	},
+	{
+		"name": "alwan",
+		"area": "26 谷津",
+		"address": "谷津2",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "雑貨",
+		"note3": "情報確認中"
+	},
+	{
+		"name": "HAVELI ハヴェリ",
+		"area": "26 谷津",
+		"address": "谷津5-5-16-101",
+		"industry": "A 飲食",
+		"note1": "カレー",
+		"note2": "閉店との情報あり（確認中）"
+	},
+	{
+		"name": "new style",
+		"area": "26 谷津",
+		"address": "谷津5",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "情報確認中"
+	},
+	{
+		"name": "eje&（エジェアンド）",
+		"area": "26 谷津",
+		"address": "谷津6",
+		"industry": "B 小売り",
+		"note1": "-",
+		"note2": "雑貨",
+		"note3": "情報確認中"
+	},
+	{
+		"name": "ORANGE POP 津田沼店",
+		"area": "28 奏の杜",
+		"address": "奏の杜1-1-1 NANAビル1F",
+		"industry": "C 美容",
+		"note1": "-",
+		"note2": "美容室",
+		"note3": "閉店との情報あり（確認中）"
+	}
+]
